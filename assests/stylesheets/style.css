@@ -1,0 +1,74 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(fondo\ 2.jpg);
+}
+#titulo {
+    color: white;
+    font-family:'micro 5', 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-image: url("logo2.png");
+    background-size: 200px 150px;
+    background-repeat: no-repeat;
+    height: 50px;
+    background-position: top right;
+    background-attachment: scroll;
+    border: dotted;
+    padding: 50px;
+    text-align: center;
+    text-decoration: underline;
+    background-color: rgb(3 37 108);
+}
+
+div h3 {
+    text-decoration: line-through;
+}
+
+#Eevee {
+    background-color: white;
+    border: solid;
+    border-style: dashed;
+    margin: 100px 400px;
+    padding: 2px;
+}
+
+#Dratini {
+    background-color: white;
+    border: solid;
+    border-style: dashed;
+    margin: 100px 400px;
+    padding: 2px;
+}
+
+#Porygon {
+    background-color: white;
+    border: solid;
+    border-style: dashed;
+    margin: 100px 400px;
+    padding: 2px;
+}
+#Scyther {
+    background-color: white;
+    border: solid;
+    border-style: dashed;
+    margin: 100px 400px;
+    padding: 2px;
+}
+.descripcion {
+    text-align: center;
+    font-weight: bolder;
+   font-size: larger;
+   padding: 2px;
+}
+
+#finalizar {
+    background-color: #2541B2;
+    margin: 0;
+    text-align: center;
+    padding: 10px;
+    border-color: black;
+    border-top: solid;
+}
